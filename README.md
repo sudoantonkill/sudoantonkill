@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 I’m currently working on<br>A Deepfake Detection system using multi-frame, multi-model evaluation<br>Scalable web platforms involving scraping, healthcare, and student-centric systems<br><br>I’m looking to collaborate on<br>AI / ML and Computer Vision projects<br>Cybersecurity, networking, and full-stack applications<br><br>I’m looking for help with<br>Improving AI model robustness and evaluation strategies<br>Secure deployment of AI and web systems<br><br>I’m currently learning<br>Advanced Deep Learning & Computer Vision<br>Cybersecurity fundamentals, networking, and system security<br><br>Ask me about<br>Deepfake detection pipelines and AI experimentation<br>Web scraping, backend development, and system design<br><br>Fun fact<br>I like building systems that combine AI, security, and full-stack engineering
 
 
